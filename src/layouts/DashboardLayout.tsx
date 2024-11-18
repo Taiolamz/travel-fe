@@ -1,4 +1,3 @@
-import { IoMdMenu } from "react-icons/io";
 import "./DashboardLayout.scss";
 import HeaderNav from "./header-nav";
 import Sidenav from "./sidenav";
